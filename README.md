@@ -150,11 +150,11 @@ HF_TOKEN=hf_...
 
 ### 3. Add your personal profile (Labs 3–5 / app.py)
 
-Replace the files in the `me/` directory:
+Replace the files in the `linkedin/` directory:
 
 ```
-me/linkedin.pdf     ← Export your LinkedIn profile as a PDF
-me/summary.txt      ← Write a short personal summary
+linkedin/Profile.pdf     ← Export your LinkedIn profile as a PDF
+linkedin/summary.txt      ← Write a short personal summary
 ```
 
 Also update `self.name` in `app.py` to your own name.
