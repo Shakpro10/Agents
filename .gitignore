@@ -1,4 +1,4 @@
-# environment variables
+# Environment variables
 .env
 
 # Python cache
@@ -7,3 +7,6 @@ __pycache__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
