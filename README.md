@@ -122,7 +122,7 @@ Given a problem (e.g. a train-meeting word problem), the agent autonomously plan
 
 ```bash
 git clone https://github.com/Shakpro10/Agents.git
-cd <your-repo>
+cd Agents
 uv sync
 ```
 
